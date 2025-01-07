@@ -9,3 +9,4 @@
 ```
 
 https://github.com/sebaubuntu-python/aospdtgen
+where do i set license
