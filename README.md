@@ -1,5 +1,7 @@
 # Android device tree for Blackview BV4900 (BV4900)
 
+dont know if this works, not enough space to compile
+
 ```
 #
 # Copyright (C) 2025 The LineageOS Project
